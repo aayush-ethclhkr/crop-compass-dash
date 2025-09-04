@@ -61,6 +61,14 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Custom agricultural colors
+				agriculture: {
+					green: 'hsl(var(--agriculture-green))',
+					harvest: 'hsl(var(--harvest-orange))',
+					earth: 'hsl(var(--earth-brown))',
+					crop: 'hsl(var(--crop-yellow))',
+					soil: 'hsl(var(--soil-brown))'
 				}
 			},
 			borderRadius: {
